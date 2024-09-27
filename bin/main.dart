@@ -1,7 +1,7 @@
 import 'package:live_test_1/car.dart';
 void main() {
   // Create an instance of Car
-  Car myCar = Car('Toyota', 'Camry', 2015);
+  Car myCar = Car('Toyota', 'Corolla', 2015);
 
   // Display car information
   print('Brand: ${myCar.brand}');
